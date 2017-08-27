@@ -1,0 +1,14 @@
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\FAUP.exe.config
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\FAUP.exe
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\FAUP.pdb
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\FAUP.xml
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\MetroFramework.Design.dll
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\MetroFramework.dll
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\bin\Release\MetroFramework.Fonts.dll
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.Form1.resources
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.Resources.resources
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.vbproj.GenerateResource.Cache
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.vbproj.CoreCompileInputs.cache
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.exe
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.xml
+C:\Users\jayson\documents\visual studio 2017\Projects\FAUP\FAUP\obj\Release\FAUP.pdb
